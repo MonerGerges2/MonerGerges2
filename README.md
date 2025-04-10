@@ -4,7 +4,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 🔭 I’m currently working in [Foft-lab](https://www.soft-lab-tech.com)
+- 🔭 I’m currently working in [Soft-lab](https://www.soft-lab-tech.com)
 
 - 🤔 I’m currently open for a new job opportunity [MY RESUME](https://drive.google.com/file/d/1m_y3oDMjL71hKpWKHIRGzcZ7qY4VAI2m/view?usp=sharing)
 
