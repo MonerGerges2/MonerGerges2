@@ -1,34 +1,44 @@
-<h1 align="center">Hi 👋, I'm Munir Gerges</h1>
-<h3 align="center">Mid-level front-end developer | React.js and Next.js</h3>
+<!-- ![profile_cover](./profile_cover.png) -->
 
-<br>
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
-- 🔭 I’m currently working in [Soft-lab](https://www.soft-lab-tech.com)
-
-- 🤔 I’m currently open for a new job opportunity [MY RESUME](https://drive.google.com/file/d/1m_y3oDMjL71hKpWKHIRGzcZ7qY4VAI2m/view?usp=sharing)
-
-- 📫 How to reach me **munirgerges0@gmail.com**
-
-- 👯 I’m looking to collaborate on **Programming projects**
-
-- 💬 Ask me about **react, next**
-
-- 🤓 Always **learning new things**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/munir-gerges-3b2056319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munir-gerges-3b2056319" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009247933365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100009247933365" height="30" width="40" /></a>
-<a href="https://instagram.com/moner_officiall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moner_officiall" height="30" width="40" /></a>
+<div align="center">
+  
+<p align="center" width="500px">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Munir+Gerges;Mid-level+front-end+developer;React.js+and+Next.js" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/342128/postman.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.creazilla.com/icons/3244495/tailwind-icon-lg.png" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&labelColor=black)](https://www.linkedin.com/in/munir-gerges-3b2056319/) 
+[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/Monerr00)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=black)](https://www.facebook.com/yourusername)
 
-<h3 align="left">Github Stats:</h3>
-<br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="monergerges2's Github Stats" src="https://github-readme-stats.vercel.app/api?username=monergerges2&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monergerges2&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="monergerges2" height="230px"/>
+</div>
+
+## About Me
+
+- 🔭 I’m currently working at [Soft-lab](https://www.soft-lab-tech.com)
+- 🤔 I’m open to new job opportunities! [View My Resume](https://drive.google.com/file/d/1m_y3oDMjL71hKpWKHIRGzcZ7qY4VAI2m/view?usp=sharing)
+- 📫 Reach me at **munirgerges0@gmail.com**
+- 👯 I’m looking to collaborate on **programming projects**
+- 💬 Ask me about **React, Next.js, TypeScript**
+- 🤓 Always **learning new things**
+
+## 💪 Skills
+
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,sass,bootstrap,react,nextjs,vite,nodejs,vercel,git,github,vscode,figma,redux,jest)
+
+## 🌐 Stats
+
+<img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=monergerges2&layout=compact&hide_border=true&theme=dracula&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats&rank_icon=github&hide_title=true" >
+
+## 🔥 Streak
+
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=monergerges2&theme=dracula&hide_border=true&stroke=0D1117&background=0D1117" />
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/monergerges2/monergerges2/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=monergerges2&color=FF6F61&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+</p>
